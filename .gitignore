@@ -2,5 +2,6 @@
 chatbot.db-shm
 chatbot.db
 chatbot.db-wal
-temp.py
+temp
 streaming.png
+.gitignore

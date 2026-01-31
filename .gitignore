@@ -1,0 +1,6 @@
+.env
+chatbot.db-shm
+chatbot.db
+chatbot.db-wal
+temp.py
+streaming.png
